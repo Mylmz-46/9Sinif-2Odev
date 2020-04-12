@@ -43,4 +43,4 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 | 9.95      |0.030      |
 | 12.35     |0.035      |
 
-6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](https://docs.google.com/spreadsheets/d/1PiowaoLV6w45qsX9FwOWRd-oEqOW6Ux7J_DogweUC1w/edit#gid=0)
+6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](https://docs.google.com/spreadsheets/d/1PiowaoLV6w45qsX9FwOWRd-oEqOW6Ux7J_DogweUC1w/edit#gid=0)***defterimde oluşturduğum tablonun eğimi  358 N/m ,bilgisayarımdaki eğim ise 368 N/m'dir***
